@@ -5,6 +5,7 @@
 [![FastF1](https://img.shields.io/badge/FastF1-3.4.0-E10600?style=for-the-badge&logo=formula-1&logoColor=white)](https://docs.fastf1.dev/)
 [![Gemini API](https://img.shields.io/badge/Google_Gemini-API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Pytest](https://img.shields.io/badge/Pytest-8.0.0-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![CI Pipeline](https://github.com/ThevinduJ/f1-race-predictor/actions/workflows/ci.yml/badge.svg)](https://github.com/ThevinduJ/f1-race-predictor/actions/workflows/ci.yml)
 
 An end-to-end Machine Learning pipeline that predicts Formula 1 race outcomes using historical telemetry and session data. It leverages a Learning-to-Rank (LTR) model to rank drivers and integrates Google's Gemini LLM to generate strategic, tactical debriefs explaining *why* the model made its predictions.
 
